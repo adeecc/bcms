@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:adeecc/BCMS-Server.git
+[submodule "client"]
+	path = client
+	url = git@github.com:adeecc/bcms-client.git
